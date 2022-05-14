@@ -5,7 +5,7 @@ Utilities for controlling the initial size of flex items.
 ### Quick reference
 ### Class
 ### Properties
-basis-0	    flex-basis: 0px;
+basis-0	    flex-basis: 0px;<br/>
 basis-1	    flex-basis: 0.25rem; /* 4px */
 basis-2	    flex-basis: 0.5rem; /* 8px */
 basis-3	    flex-basis: 0.75rem; /* 12px */
