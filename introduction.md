@@ -6,7 +6,7 @@
 
 
 
-#### Why rems not px ?
+## Why rems not px ?
 
 ## Tailwind CSS uses rems in all units. The point of rem is that you can (not saying you should) scale everything proportionally by changing the root font size. With px you can't.
 
